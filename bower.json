@@ -3,8 +3,8 @@
   "homepage": "https://github.com/kmichailg/dhtmlx-calendar",
   "description": "Host of DHTMLX Calendar plugin only",
   "main": [
-    "./dhtmlxcalendar.css",
-    "./dhtmlxcalendar.js"
+    "./codebase/dhtmlxcalendar.css",
+    "./codebase/dhtmlxcalendar.js"
   ],
   "keywords": [
     "dhtmlx-calendar",
