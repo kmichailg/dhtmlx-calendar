@@ -1,0 +1,21 @@
+{
+  "name": "dhtmlx-calendar",
+  "homepage": "https://github.com/kmichailg/dhtmlx-calendar",
+  "description": "Host of DHTMLX Calendar plugin only",
+  "main": [
+    "./dhtmlxcalendar.css",
+    "./dhtmlxcalendar.js"
+  ],
+  "keywords": [
+    "dhtmlx-calendar",
+    "calendar"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
